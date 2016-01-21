@@ -4,7 +4,9 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+lein deps 
+lein uberjar
+java -jar target/uberjar/clj-netty4-0.1.0-SNAPSHOT-standalone.jar -p <port>
 
 ## License
 
